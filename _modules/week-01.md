@@ -1,23 +1,15 @@
 ---
-title: Introduction to Java
+title: Introduction to Machine Learning
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+July 15
+: **Demo**{: .label .label-blue }[Introduction to Neural Networks: Tensorflow Playground](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+July 16
+: **Lecture**{: .label .label-purple }[Introduction to Computer Vision: Object Detection and Segmentation](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+July 17
+: **Lecture**{: .label .label-purple }[Language Models for Projects: What they can and cannot do](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+July 18
+: **Workshop**{: .label .label-purple } [Ideas for Experiments for High School Students](#)
