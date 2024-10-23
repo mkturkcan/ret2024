@@ -1,5 +1,5 @@
 ---
-title: Introduction to Machine Learning
+title: Week 1 - Introduction to Machine Learning
 ---
 
 July 15
@@ -12,4 +12,4 @@ July 17
 : **Lecture**{: .label .label-purple }[Language Models for Projects: What they can and cannot do](#)
 
 July 18
-: **Workshop**{: .label .label-purple } [Ideas for Experiments for High School Students](#)
+: **Workshop**{: .label .label-green } [Ideas for Experiments for High School Students](#)

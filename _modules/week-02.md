@@ -1,23 +1,15 @@
 ---
-title: Basic Data Structures
+title: Week 2 - Experiments for Students
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+July 22
+: **Lecture**{: .label .label-purple } **Demo**{: .label .label-blue }  [Kalman Filters for Object Tracking: Quadratic Functions, Velocity and Acceleration](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+July 23
+: **Lecture**{: .label .label-purple }[Time Series Analysis: Traffic Flow in New York City](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+July 24
+: **Lecture**{: .label .label-purple }[Computer Vision: Color Theory and Light](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+July 25
+: **Workshop**{: .label .label-green } [Lesson Plan Ideas](#)
