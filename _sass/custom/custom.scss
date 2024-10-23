@@ -51,3 +51,11 @@ summary {
     }
   }
 }
+
+@media (min-width: 50rem) {
+  .site-header {
+      height: 5.75rem;
+      max-height: 5.75rem;
+      border-bottom: 1px solid #eeebee;
+  }
+}
