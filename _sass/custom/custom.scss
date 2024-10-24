@@ -52,6 +52,15 @@ summary {
   }
 }
 
+.main-content .module>dl>dd dl dt, .module>dl>dd dl dt {
+  flex: 0 0 35% !important;
+  margin: 0;
+}
+
+.main-content .module>dl>dd dl dd, .module>dl>dd dl dd {
+  margin: 5px;
+}
+
 @media (min-width: 50rem) {
   .site-header {
       height: 5.75rem;
@@ -67,11 +76,3 @@ summary {
   }
 }
 
-.main-content .module>dl>dd dl dt, .module>dl>dd dl dt {
-  flex: 0 0 35% !important;
-  margin: 0;
-}
-
-.main-content .module>dl>dd dl dd, .module>dl>dd dl dd {
-  margin: 5px;
-}
