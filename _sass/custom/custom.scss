@@ -71,3 +71,7 @@ summary {
   flex: 0 0 35% !important;
   margin: 0;
 }
+
+.main-content .module>dl>dd dl dd, .module>dl>dd dl dd {
+  margin: 5px;
+}
