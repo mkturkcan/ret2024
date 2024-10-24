@@ -67,3 +67,7 @@ summary {
   }
 }
 
+.main-content .module>dl>dd dl dt, .module>dl>dd dl dt {
+  flex: 0 0 40%;
+  margin: 0;
+}
