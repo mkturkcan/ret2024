@@ -11,7 +11,10 @@ July 29
 July 30
 : **Lecture**{: .label .label-purple }[Model Evaluation](#)
   : **Reading**{: .label .label-yellow }[Concepts in Deep Learning](https://drive.google.com/file/d/18Qt7eIgb_VKepUzsQlzW9hBCYPAb-85k/view?usp=drive_link)
-    : **Reading**{: .label .label-yellow }[What is Average Precision in Object Detection & Localization Algorithms and how to calculate it?](https://towardsdatascience.com/what-is-average-precision-in-object-detection-localization-algorithms-and-how-to-calculate-it-3f330efe697b)
+    : **Reading**{: .label .label-yellow }[Average Precision](https://towardsdatascience.com/what-is-average-precision-in-object-detection-localization-algorithms-and-how-to-calculate-it-3f330efe697b)
+  : **Demo**{: .label .label-blue }[Decision Thresholds](https://keremturkcan.com/projects/decision_thresholds.html)
+  : **Demo**{: .label .label-blue }[Decision Thresholds: Real World Demo](https://keremturkcan.com/projects/decision_thresholds2.html)
+
 : **Workshop**{: .label .label-green } Work on Lesson Plans
 
 July 31
