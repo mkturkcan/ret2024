@@ -30,4 +30,4 @@ July 18
   : **Demo**{: .label .label-blue }[MNIST Fully Connected Network](https://adamharley.com/nn_vis/mlp/2d.html)
   : **Demo**{: .label .label-blue }[MNIST Convolutional Neural Network](https://adamharley.com/nn_vis/cnn/2d.html)
   : **Reading**{: .label .label-yellow }[Convolutional Neural Networks Explained](https://poloclub.github.io/cnn-explainer/)
-: **Workshop**{: .label .label-green } Brainstorming
+: **Workshop**{: .label .label-green } Lesson Plan Brainstorming Session
