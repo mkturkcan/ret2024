@@ -12,7 +12,8 @@ July 23
   : **Demo**{: .label .label-blue }[CVAT Tutorial](#)
   : **Demo**{: .label .label-blue }[Google Colab Tutorial](#)
 : **Workshop**{: .label .label-green } [Lesson Plan Ideas](#)
-  : **Demo**{: .label .label-blue }[Roboflow Universe](#)
+  : **Demo**{: .label .label-blue }[Roboflow Universe](https://universe.roboflow.com/)
+  : **Demo**{: .label .label-blue }[Example: Bottle Detection Datasets](https://universe.roboflow.com/search?q=bottle+object+detection )
 
 July 24
 : **Lecture**{: .label .label-purple }[Computer Vision: Color Theory and Light](#)
