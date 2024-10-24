@@ -4,6 +4,7 @@ title: Week 1 - Introduction to Machine Learning
 
 July 15
 : **Lecture**{: .label .label-purple }[Neural Networks](#)
+  : **Reading**{: .label .label-yellow }[Box's Loop](https://xuwd11.github.io/am207/wiki/boxloop.html )
   : **Reading**{: .label .label-yellow }[Neural Networks from Scratch](https://aegeorge42.github.io/ )
   : **Demo**{: .label .label-blue }[Tensorflow Playground](#)
   : **Handout**{: .label .label-red }[Perspectives in Philosophy of Science: Realism, Anti-Realism, and Beyond](#)
