@@ -14,6 +14,11 @@ The CS3 Research Experience for Teachers (RET) program offers a valuable opportu
 
 In addition to hands-on research experience, the program includes personal and professional development workshops and seminars focused on culturally inclusive pedagogy in the classroom, as well as community-impact driven research. Participants engage in the program for roughly 20 hours a week.
 
+<span class="fs-6">
+[Learn More](https://cs3-erc.org/research-experience-for-teachers/){: .btn  .btn-purple .mr-2}
+[Course Material](https://mkturkcan.github.io/ret2024/calendar/){: .btn  .btn-blue}
+</span>
+
 ## Program Goals
 
 1. Receive training in the fundamentals of smart streetscape technology through real-time, hyper-local streetscape applications built on advancements in edge-cloud technology, wireless-optical engineering, visual analytics, and computer security.
