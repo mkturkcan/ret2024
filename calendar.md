@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Material & Calendar
+title: Course Materials & Calendar
 description: Listing of course modules and topics.
 ---
 
