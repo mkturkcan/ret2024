@@ -16,7 +16,7 @@ In addition to hands-on research experience, the program includes personal and p
 
 <span class="fs-6">
 [Learn More](https://cs3-erc.org/research-experience-for-teachers/){: .btn  .btn-purple .mr-2}
-[Course Materials](https://mkturkcan.github.io/ret2024/calendar/){: .btn  .btn-blue}
+[Course Materials](https://center-for-smart-streetscapes-cs3.github.io/ret2024/){: .btn  .btn-blue}
 </span>
 
 ## Program Goals
